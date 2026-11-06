@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<!-- RT-X2 (RTD1325), stock Android 14 kernel and vendor binaries. -->
+	<project path="device/realtek/rtd1325-common" remote="github" name="Lineage-Realtek/android_device_realtek_rtd1325-common" revision="lineage-23.2" />
+	<project path="device/realtek/rtx2" remote="github" name="Lineage-Realtek/android_device_realtek_rtx2" revision="lineage-23.2" />
+	<project path="device/realtek/rtx2-kernel" remote="github" name="Lineage-Realtek/android_device_realtek_rtx2-kernel" revision="lineage-23.2" />
+	<project path="vendor/realtek/rtd1325-common" remote="github" name="Lineage-Realtek/proprietary_vendor_realtek_rtd1325-common" revision="lineage-23.2" />
+	<project path="vendor/realtek/rtx2" remote="github" name="Lineage-Realtek/proprietary_vendor_realtek_rtx2" revision="lineage-23.2" />
+</manifest>
